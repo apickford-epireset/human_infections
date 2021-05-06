@@ -4,6 +4,10 @@ This repository contains the R files necessary to run the analysis performed in 
 
 The analysis consists in the comparison, through gene expression microarrays, of the transcriptome of parasites obtained from infected volunteers and their parental parasite line maintained in culture.
 
+
+
+########################################################
+
 This is the sessionInfo() output:
 
 R version 3.6.3 (2020-02-29)
